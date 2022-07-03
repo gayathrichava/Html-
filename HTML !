@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body style="text-align:justify; background-color:#001122;color:#ffffff;font-family:chiller;">
+	     
+		<aside style="font-family:calibri;float:right">
+			<h2>more to know</h2>
+			<p style="font-family:elephant;background-color:#001122;color:#556677;float:left">
+			 Tables elements having the following child elements:1.th 2.tr 3.td</p>
+		</aside>
+		  
+		<section>
+			
+			<h3>About Tables</h3>
+		    <p style="font-size:30pt">Tables is use to organize the information in rows and columns.<br/>Tables are used in two purposes
+		    1.organizing the information in the table format <br/>2.creating page layout.</p>
+			  
+	   </section>
+	</body>
+</html
