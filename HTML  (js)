@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+document.write("This is JavaScript")
+</script>
+</head>
+<body>
+</body>
+
+</html
